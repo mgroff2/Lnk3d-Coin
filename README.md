@@ -6,6 +6,7 @@ Welcome to the world of Lnk3d Coin – a groundbreaking innovation that merges 3
     - [Endless Use Cases](#endless-use-cases)
     - [Programming  Your Coin](#programming--your-coin)
     - [3D Print Your Own](#3d-print-your-own)
+    - [Printed Examples](#printed-examples)
 
 ## The Linked Coin: A Window to a New Reality
 Lnk3d Coin is no ordinary coin; it's a tangible token equipped with an embedded NFC tag, granting it extraordinary capabilities. With the power of NFC technology at your disposal, you can effortlessly connect the physical and digital worlds in ways previously unimagined.
@@ -35,11 +36,17 @@ Harnessing the power of Lnk3d Coin is as easy as downloading an NFC writer app t
    - Android - [NFC Tools](https://play.google.com/store/apps/details?id=com.wakdev.wdnfc&hl=en_US&gl=US)
    - Apple - [NFC Tools](https://apps.apple.com/us/app/nfc-tools/id1252962749)
 
+<p align="center">
+<strong>NFC Tools Logo</strong>
+<br>
+<img src="./img/nfc-tools-logo.png" />
+</p>
+
 Once you have your NFC writer app, you can program your Lnk3d Coin to perform a multitude of functions, from creating virtual contact cards to linking to GitHub repositories, or any website you desire.
 
-   ![NFC Tools Logo](./img/nfc-tools-logo.png)
 
-2. Program Example (URL)
+
+1. Program Example (URL)
    - Add a record
     ![Add Record 1](/img/Add_Record1.JPEG)
     ![Add Record 2](/img/Add_Record2.JPEG)
@@ -53,3 +60,10 @@ Once you have your NFC writer app, you can program your Lnk3d Coin to perform a 
 If you're intrigued by the potential of Lnk3d Coin and eager to embark on your creative journey, our repository provides comprehensive instructions on 3D printing your personalized Lnk3d Coins. Get ready to unlock your imagination and redefine the way you connect with the digital landscape.
 
 Join us on this exciting adventure as we push the boundaries of what's possible when physical and digital interaction converge. With Lnk3d Coin, the future is now, and the opportunities are limitless.
+
+### Printed Examples
+- Groff Coin
+- Remington Coin
+- Inno Coin
+- Platform One Coin
+- 
