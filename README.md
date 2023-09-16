@@ -63,7 +63,3 @@ Join us on this exciting adventure as we push the boundaries of what's possible 
 
 ### Printed Examples
 - Groff Coin
-- Remington Coin
-- Inno Coin
-- Platform One Coin
-- 
