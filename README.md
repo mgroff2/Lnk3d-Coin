@@ -7,6 +7,7 @@ Welcome to the world of Lnk3d Coin – a groundbreaking innovation that merges 3
     - [Programming  Your Coin](#programming--your-coin)
     - [3D Print Your Own](#3d-print-your-own)
     - [Printed Examples](#printed-examples)
+    - [Demo](#demo)
 
 ## The Linked Coin: A Window to a New Reality
 Lnk3d Coin is no ordinary coin; it's a tangible token equipped with an embedded NFC tag, granting it extraordinary capabilities. With the power of NFC technology at your disposal, you can effortlessly connect the physical and digital worlds in ways previously unimagined.
@@ -63,3 +64,7 @@ Join us on this exciting adventure as we push the boundaries of what's possible 
 
 ### Printed Examples
 - Groff Coin
+![Groff Coin](/img/Groff_Coin.JPEG)
+
+### Demo
+- [Lnk3d Coin Demo](https://youtu.be/oOXusw8X2g0)
