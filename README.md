@@ -49,12 +49,12 @@ Once you have your NFC writer app, you can program your Lnk3d Coin to perform a 
 
 1. Program Example (URL)
    - Add a record
-    ![Add Record 1](/img/Add_Record1.JPEG)
-    ![Add Record 2](/img/Add_Record2.JPEG)
-    ![Add Record 3](/img/Add_Record3.JPEG)
+    ![Add Record 1](./img/Add_Record1.JPEG)
+    ![Add Record 2](./img/Add_Record2.JPEG)
+    ![Add Record 3](./img/Add_Record3.JPEG)
    - Write the record
-    ![Write Record 1](/img/Write_Record1.JPEG)
-    ![Write Record 2](/img/Write_Record2.JPEG)
+    ![Write Record 1](./img/Write_Record1.JPEG)
+    ![Write Record 2](./img/Write_Record2.JPEG)
 
 ### 3D Print Your Own
 
@@ -64,7 +64,7 @@ Join us on this exciting adventure as we push the boundaries of what's possible 
 
 ### Printed Examples
 - Groff Coin
-![Groff Coin](/img/Groff_Coin.JPEG)
+![Groff Coin](./img/Groff_Coin.JPEG)
 
 ### Demo
 - [Lnk3d Coin Demo](https://youtu.be/oOXusw8X2g0)
