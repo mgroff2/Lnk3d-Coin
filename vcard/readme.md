@@ -1,4 +1,7 @@
 # Program Lnk3d Coin as a Virtual Contact Card
+- [Program Lnk3d Coin as a Virtual Contact Card](#program-lnk3d-coin-as-a-virtual-contact-card)
+  - [Step 1: Virtual Card Setup](#step-1-virtual-card-setup)
+  - [Step 2:](#step-2)
 
 ## Step 1: Virtual Card Setup
 This portion of the setup can be done from a computer or mobile device. You will need access to a browser and ability to create/store a password for later use. 
